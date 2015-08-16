@@ -1,2 +1,3 @@
 # p4e
-Eduardo's code from Programming for Everyone (Python)
+
+This repository contains code that I wrote while attending the Programming for Everyone (Python) course.
